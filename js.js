@@ -34,6 +34,6 @@ console.log(incomes);
 //Llamado de funciones y display de resultados ↓↓
 let promedio = division (contador,i);
 let earnings = ganancianeta(promedio);
-alert(`El promedio de los ingresos de la semana es ${promedio}, de los cuales la ganancia neta de su negocio es ${earnings}`);
+alert(`El promedio de los ingresos de la semana es $${promedio}, de los cuales la ganancia neta de su negocio es $${earnings}`);
 
 
